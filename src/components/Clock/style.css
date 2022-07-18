@@ -1,0 +1,10 @@
+.clock {
+  width: 300px;
+  text-align: center;
+}
+.clock h1 {
+  color: #49cb9e;
+}
+.clock h2 {
+  color: #b6b6b6;
+}
